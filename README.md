@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # Public Health Hospital Analytics
 
 ## Context
@@ -44,6 +41,6 @@ This project was developed using real healthcare data.
 Due to ethical and legal restrictions, the original datasets are not included
 in this repository, as they contain sensitive patient information.
 
-The repository focuses on database design, analytical queries and OLAP logic,
-which can be reproduced using anonymized or simulated data.
->>>>>>> a76a314 (Add public health hospital analytics project (OLAP & SQL))
+The repository focuses on database design, analytical queries and OLAP logic.
+
+
